@@ -1,5 +1,6 @@
 # REMOVE BACKGROUND API REMOVE.BG
 Remove background" dalam bahasa Indonesia berarti menghapus latar belakang atau menghilangkan latar belakang
+<img src="asset/20250713_181743.jpg" alt="Hasil Remove background" width="500" height="600">
 ## DOWNLOAD TERMUX FDROID
 * Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 ### Instalation 
